@@ -100,4 +100,10 @@
 .texi{
   color: #263238;
   text-decoration: none;
+  color: green;
+}
+
+.f1{
+  text-decoration: none;
+  color: white;
 }
