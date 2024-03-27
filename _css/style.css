@@ -1,0 +1,103 @@
+.center-text {
+    text-align: center;
+  }
+
+/* ------ */
+
+.container{
+  max-width: 50%;
+  height: auto;
+}
+
+ /*  ---*/
+
+
+ .sec{
+  background-color: #f5f7fa;
+ }
+
+ .info{
+  margin: 30px;
+  padding: 50px;
+  background-color: #f5f7fa;
+ }
+ .info2{
+  margin: 40px;
+  padding: 50px;
+  background-color: #f5f7fa;
+  ;
+ }
+
+ .year{
+  color: #28cb8b ;
+ }
+
+ .tit{
+  color: aliceblue;
+ }
+
+ #footer {
+  background-color: #263238;
+  color: #fff; 
+  padding: 20px; 
+  font-family: "Oswald", sans-serif; 
+}
+
+#footer img {
+  width: 30px; 
+  height: auto; 
+  margin: 0 5px; 
+}
+
+#footer .logo-empresa {
+  width: auto; 
+  height: auto; 
+}
+
+.footer_icons {
+  margin-left: 2%; 
+  padding: 0;
+  list-style-type: none;
+}
+
+.footer_icons li {
+  display: inline-block; 
+  margin-right: 2%; 
+  text-align: center;
+}
+
+.form-footer {
+  padding-left: 10%;
+}
+
+
+#footer h5 {
+  margin: 10px;
+  padding: 0px; 
+}
+
+#footer h3 {
+  font-size: 16px; 
+
+}
+
+#footer p {
+  font-size: 14px; 
+}
+
+#footer h5 a {
+  color: #fff;
+  text-decoration: none; 
+}
+
+#footer h5 a:hover {
+  text-decoration: underline; 
+}
+#footer h3{
+  font-size: 23px;
+}
+
+.texi{
+  color: #263238;
+  text-decoration: none;
+}
